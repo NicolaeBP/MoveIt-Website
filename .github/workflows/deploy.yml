@@ -30,12 +30,6 @@ jobs:
       - name: Build
         run: npm run build
 
-      - name: Flatten build structure
-        run: |
-          mv build/client/MoveIt-Website/* build/client/
-          mv build/client/MoveIt-Website/.[!.]* build/client/ 2>/dev/null || true
-          rmdir build/client/MoveIt-Website
-
       - name: Copy SPA fallback to 404.html
         run: cp build/client/__spa-fallback.html build/client/404.html
 
