@@ -2,7 +2,7 @@ import type { Config } from '@react-router/dev/config';
 
 export default {
     ssr: false, // Disable SSR for static hosting (GitHub Pages)
-    basename: '/MoveIt-Website',
+    basename: '/',
 
     async prerender() {
         const languages = [

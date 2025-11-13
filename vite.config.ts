@@ -2,9 +2,9 @@ import { defineConfig } from 'vite'
 import { reactRouter } from '@react-router/dev/vite'
 
 // https://vite.dev/config/
-export default defineConfig(({ mode }) => ({
+export default defineConfig(() => ({
     plugins: [reactRouter()],
-    base: mode === 'development' ? '/MoveIt-Website' : '/MoveIt-Website/',
+    base: '/',
     esbuild: {
         drop: ['console', 'debugger'],
     },
