@@ -134,7 +134,7 @@
   "download.macAppStore.feature3": "Простая установка",
   "download.macAppStore.button": "Скачать из App Store",
   "download.windowsStore.title": "Microsoft Store",
-  "download.windowsStore.description": "Версия для Windows скоро! Мы работаем над тем, чтобы принести MoveIt пользователям Windows.",
+  "download.windowsStore.description": "Версия для Windows скоро! Мы работаем над тем, чтобы принести MoveIt пользователям Windows. Тем временем, проверьте раздел Прямая Загрузка ниже, чтобы получить версию для Windows.",
   "download.windowsStore.button": "Скоро",
   "download.directDownload.title": "Прямая Загрузка",
   "download.directDownload.description": "Загрузите напрямую с релизов GitHub. Идеально для продвинутых пользователей, которым нужны конкретные версии.",

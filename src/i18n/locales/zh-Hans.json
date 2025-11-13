@@ -134,7 +134,7 @@
   "download.macAppStore.feature3": "简单安装",
   "download.macAppStore.button": "从 App Store 下载",
   "download.windowsStore.title": "Microsoft Store",
-  "download.windowsStore.description": "Windows 版本即将推出！我们正在努力将 MoveIt 带给 Windows 用户。",
+  "download.windowsStore.description": "Windows 版本即将推出！我们正在努力将 MoveIt 带给 Windows 用户。同时，请查看下方的直接下载部分以获取 Windows 版本。",
   "download.windowsStore.button": "即将推出",
   "download.directDownload.title": "直接下载",
   "download.directDownload.description": "直接从 GitHub 发布版本下载。非常适合想要特定版本的高级用户。",

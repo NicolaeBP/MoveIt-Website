@@ -134,7 +134,7 @@
   "download.macAppStore.feature3": "簡単なインストール",
   "download.macAppStore.button": "App Storeからダウンロード",
   "download.windowsStore.title": "Microsoft Store",
-  "download.windowsStore.description": "Windowsバージョンは近日公開！MoveItをWindowsユーザーに提供するために作業中です。",
+  "download.windowsStore.description": "Windowsバージョンは近日公開！MoveItをWindowsユーザーに提供するために作業中です。それまでの間、下記の直接ダウンロードセクションでWindowsバージョンを入手できます。",
   "download.windowsStore.button": "近日公開",
   "download.directDownload.title": "直接ダウンロード",
   "download.directDownload.description": "GitHubリリースから直接ダウンロードします。特定のバージョンを希望する上級ユーザーに最適です。",

@@ -134,7 +134,7 @@
   "download.macAppStore.feature3": "간편한 설치",
   "download.macAppStore.button": "App Store에서 다운로드",
   "download.windowsStore.title": "Microsoft Store",
-  "download.windowsStore.description": "Windows 버전 곧 출시! Windows 사용자에게 MoveIt을 제공하기 위해 노력하고 있습니다.",
+  "download.windowsStore.description": "Windows 버전 곧 출시! Windows 사용자에게 MoveIt을 제공하기 위해 노력하고 있습니다. 그 동안 아래 직접 다운로드 섹션에서 Windows 버전을 받으실 수 있습니다.",
   "download.windowsStore.button": "곧 출시",
   "download.directDownload.title": "직접 다운로드",
   "download.directDownload.description": "GitHub 릴리스에서 직접 다운로드하세요. 특정 버전을 원하는 고급 사용자에게 완벽합니다.",

@@ -134,7 +134,7 @@
   "download.macAppStore.feature3": "Einfache Installation",
   "download.macAppStore.button": "Aus dem App Store Herunterladen",
   "download.windowsStore.title": "Microsoft Store",
-  "download.windowsStore.description": "Windows-Version demnächst! Wir arbeiten daran, MoveIt für Windows-Benutzer bereitzustellen.",
+  "download.windowsStore.description": "Windows-Version demnächst! Wir arbeiten daran, MoveIt für Windows-Benutzer bereitzustellen. In der Zwischenzeit finden Sie die Windows-Version im Bereich Direkter Download weiter unten.",
   "download.windowsStore.button": "Demnächst",
   "download.directDownload.title": "Direkter Download",
   "download.directDownload.description": "Laden Sie direkt von GitHub-Releases herunter. Perfekt für fortgeschrittene Benutzer, die spezifische Versionen wünschen.",
