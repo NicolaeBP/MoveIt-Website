@@ -4,7 +4,7 @@ import { JsonLd } from 'react-schemaorg';
 import Seo from '../../components/Seo/Seo';
 import { useLanguage } from '../../context/LanguageContext';
 import { useValidateLanguage } from '../../hooks/useValidateLanguage';
-import { detectOS, fetchLatestRelease, findDMGAsset, getHomeSeoData } from './Home.utils';
+import { detectOS, fetchLatestRelease, findAssetForOS, getHomeSeoData } from './Home.utils';
 import DownloadButton from './DownloadButton/DownloadButton';
 import FeatureCard from './FeatureCard/FeatureCard';
 import UseCaseCard from './UseCaseCard/UseCaseCard';
@@ -38,9 +38,9 @@ const Home = () => {
                 if (fetchedRelease) {
                     setRelease(fetchedRelease);
 
-                    const dmgAsset = findDMGAsset(fetchedRelease);
+                    const asset = findAssetForOS(fetchedRelease, os);
 
-                    if (dmgAsset) setDownloadUrl(dmgAsset.browser_download_url);
+                    if (asset) setDownloadUrl(asset.browser_download_url);
                 }
             })
             .catch((error) => console.error('Failed to fetch latest release:', error))

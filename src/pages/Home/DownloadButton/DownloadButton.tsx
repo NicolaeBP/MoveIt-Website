@@ -11,7 +11,25 @@ const DownloadButton = ({ isWindows, loading, downloadUrl, t, inline = false }: 
 
     return (
         <>
-            {isWindows && (
+            {loading && (
+                <button
+                    disabled
+                    className="bg-white text-primary-600 px-8 py-3 rounded-lg font-semibold opacity-60 cursor-wait"
+                >
+                    {t('home.hero.loading')}
+                </button>
+            )}
+
+            {!loading && downloadUrl && (
+                <a
+                    href={downloadUrl}
+                    className={`bg-gradient-to-br from-white to-gray-300 text-primary-600 px-8 py-3 rounded-lg font-semibold hover:from-gray-100 hover:to-gray-400 transition-all ${inlineClass}`}
+                >
+                    {t('home.hero.downloadLatest')}
+                </a>
+            )}
+
+            {!loading && !downloadUrl && isWindows && (
                 <button
                     disabled
                     className="bg-gray-200 text-gray-500 px-8 py-3 rounded-lg font-semibold cursor-not-allowed opacity-60"
@@ -21,25 +39,7 @@ const DownloadButton = ({ isWindows, loading, downloadUrl, t, inline = false }: 
                 </button>
             )}
 
-            {!isWindows && loading && (
-                <button
-                    disabled
-                    className="bg-white text-primary-600 px-8 py-3 rounded-lg font-semibold opacity-60 cursor-wait"
-                >
-                    {t('home.hero.loading')}
-                </button>
-            )}
-
-            {!isWindows && !loading && downloadUrl && (
-                <a
-                    href={downloadUrl}
-                    className={`bg-gradient-to-br from-white to-gray-300 text-primary-600 px-8 py-3 rounded-lg font-semibold hover:from-gray-100 hover:to-gray-400 transition-all ${inlineClass}`}
-                >
-                    {t('home.hero.downloadLatest')}
-                </a>
-            )}
-
-            {!isWindows && !loading && !downloadUrl && (
+            {!loading && !downloadUrl && !isWindows && (
                 <a
                     href="/download"
                     className={`bg-gradient-to-br from-white to-gray-300 text-primary-600 px-8 py-3 rounded-lg font-semibold hover:from-gray-100 hover:to-gray-400 transition-all ${inlineClass}`}

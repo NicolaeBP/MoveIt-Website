@@ -33,6 +33,21 @@ export const findDMGAsset = (release: GitHubRelease) => {
     return release?.assets?.find((asset) => asset.name.endsWith('.dmg'));
 };
 
+export const findAssetForOS = (release: GitHubRelease, os: ReturnType<typeof detectOS>) => {
+    if (!release?.assets) return null;
+
+    switch (os) {
+        case 'macos':
+            return release.assets.find((asset) => asset.name.endsWith('.dmg'));
+        case 'windows':
+            return release.assets.find((asset) => asset.name.endsWith('.exe'));
+        case 'linux':
+            return release.assets.find((asset) => asset.name.endsWith('.AppImage') || asset.name.endsWith('.deb'));
+        default:
+            return null;
+    }
+};
+
 export const getHomeSeoData = (description: string, release?: GitHubRelease | null): WithContext<SoftwareApplication> => {
     const version = release?.tag_name?.replace('v', '') || '1.0.0';
     const dmgAsset = release ? findDMGAsset(release) : null;
