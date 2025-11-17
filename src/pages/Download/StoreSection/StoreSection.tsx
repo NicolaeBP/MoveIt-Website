@@ -30,6 +30,12 @@ const StoreSection = ({
         ? { href, target: '_blank', rel: 'noopener noreferrer' }
         : { disabled };
 
+    const formatBold = (text: string): React.ReactNode => {
+        const parts = text.split(/{bold}|{\/bold}/);
+
+        return parts.map((part, index) => (index % 2 === 1 ? <strong key={index}>{part}</strong> : part));
+    };
+
     return (
         <section className="mb-20">
             <div className="bg-white dark:bg-[#2D2D2D] rounded-lg shadow-lg p-8 md:p-12">
@@ -45,9 +51,7 @@ const StoreSection = ({
                             {title}
                         </h2>
 
-                        <p className="text-lg text-gray-600 dark:text-[#B0B0B0] mb-6">
-                            {description}
-                        </p>
+                        <p className="text-lg text-gray-600 dark:text-[#B0B0B0] mb-6">{formatBold(description)}</p>
 
                         {!!features.length && (
                             <ul className="space-y-3 text-gray-600 dark:text-[#B0B0B0] mb-8">
