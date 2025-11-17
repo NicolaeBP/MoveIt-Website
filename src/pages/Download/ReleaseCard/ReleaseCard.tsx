@@ -44,29 +44,31 @@ const ReleaseCard = ({ release, t }: ReleaseCardProps) => {
                         {t('download.directDownload.downloadsLabel')}
                     </p>
 
-                    {release.assets.map((asset) => (
-                        <a
-                            key={asset.name}
-                            href={asset.browser_download_url}
-                            className="flex items-center justify-between p-3 bg-white dark:bg-[#1E1E1E] border border-gray-200 dark:border-gray-700 rounded-lg hover:border-primary-500 dark:hover:border-primary-400 transition-colors"
-                        >
-                            <div className="flex items-center">
-                                <Download className="w-5 h-5 text-gray-400 dark:text-gray-500 mr-3" />
+                    {release.assets
+                        .filter((asset) => !asset.name.match(/\.(yml|yaml|blockmap)$/i))
+                        .map((asset) => (
+                            <a
+                                key={asset.name}
+                                href={asset.browser_download_url}
+                                className="flex items-center justify-between p-3 bg-white dark:bg-[#1E1E1E] border border-gray-200 dark:border-gray-700 rounded-lg hover:border-primary-500 dark:hover:border-primary-400 transition-colors"
+                            >
+                                <div className="flex items-center">
+                                    <Download className="w-5 h-5 text-gray-400 dark:text-gray-500 mr-3" />
 
-                                <div>
-                                    <p className="font-medium text-gray-900 dark:text-[#E5E5E5]">
-                                        {asset.name}
-                                    </p>
+                                    <div>
+                                        <p className="font-medium text-gray-900 dark:text-[#E5E5E5]">
+                                            {asset.name}
+                                        </p>
 
-                                    <p className="text-sm text-gray-500 dark:text-gray-400">
-                                        {formatFileSize(asset.size)} • {t('download.directDownload.downloadCount').replace('{count}', asset.download_count.toString())}
-                                    </p>
+                                        <p className="text-sm text-gray-500 dark:text-gray-400">
+                                            {formatFileSize(asset.size)} • {t('download.directDownload.downloadCount').replace('{count}', asset.download_count.toString())}
+                                        </p>
+                                    </div>
                                 </div>
-                            </div>
 
-                            <ChevronRight className="w-5 h-5 text-gray-400 dark:text-gray-500" />
-                        </a>
-                    ))}
+                                <ChevronRight className="w-5 h-5 text-gray-400 dark:text-gray-500" />
+                            </a>
+                        ))}
                 </div>
             ) : (
                 <p className="text-gray-500 dark:text-gray-400 text-sm">
