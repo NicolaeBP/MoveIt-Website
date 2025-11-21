@@ -4,7 +4,7 @@ import { JsonLd } from 'react-schemaorg';
 import Seo from '../../components/Seo/Seo';
 import { useLanguage } from '../../context/LanguageContext';
 import { useValidateLanguage } from '../../hooks/useValidateLanguage';
-import type { GitHubRelease } from '../../types/github';
+import type { GitHubRelease } from '@/types/github.ts';
 import { isMobileOrTablet, getDownloadSeoData } from './Download.utils';
 import { MAC_APP_STORE_URL, GITHUB_RELEASES_API_URL } from './Download.const';
 import DirectDownloadSection from './DirectDownloadSection/DirectDownloadSection';

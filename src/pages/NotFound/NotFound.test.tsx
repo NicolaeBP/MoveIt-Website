@@ -9,8 +9,8 @@ vi.mock('../../components/Seo/Seo', () => ({
     default: () => null,
 }));
 
-const wrapper = ({ children }: { children: React.ReactNode }) => (
-    <MemoryRouter>
+const createWrapper = (path?: string) => ({ children }: { children: React.ReactNode }) => (
+    <MemoryRouter initialEntries={path ? [path] : undefined}>
         <ThemeProvider>
             <LanguageProvider>
                 {children}
@@ -26,19 +26,19 @@ describe('NotFound', () => {
 
     describe('when rendered', () => {
         it('displays 404 number', () => {
-            render(<NotFound />, { wrapper });
+            render(<NotFound />, { wrapper: createWrapper() });
 
             expect(screen.getByText('404')).toBeInTheDocument();
         });
 
         it('displays page not found heading', () => {
-            render(<NotFound />, { wrapper });
+            render(<NotFound />, { wrapper: createWrapper() });
 
             expect(screen.getByText('Page Not Found')).toBeInTheDocument();
         });
 
         it('displays error message', () => {
-            render(<NotFound />, { wrapper });
+            render(<NotFound />, { wrapper: createWrapper() });
 
             expect(screen.getByText(/doesn't exist or has been moved/)).toBeInTheDocument();
         });
@@ -46,7 +46,7 @@ describe('NotFound', () => {
 
     describe('when navigation links are displayed', () => {
         it('displays Home link', () => {
-            render(<NotFound />, { wrapper });
+            render(<NotFound />, { wrapper: createWrapper() });
 
             const homeLinks = screen.getAllByRole('link', { name: /Home/ });
 
@@ -54,19 +54,19 @@ describe('NotFound', () => {
         });
 
         it('displays Download link', () => {
-            render(<NotFound />, { wrapper });
+            render(<NotFound />, { wrapper: createWrapper() });
 
             expect(screen.getByRole('link', { name: /Download/ })).toBeInTheDocument();
         });
 
         it('displays Contact link', () => {
-            render(<NotFound />, { wrapper });
+            render(<NotFound />, { wrapper: createWrapper() });
 
             expect(screen.getByRole('link', { name: /Contact/ })).toBeInTheDocument();
         });
 
         it('displays Back to Home button', () => {
-            render(<NotFound />, { wrapper });
+            render(<NotFound />, { wrapper: createWrapper() });
 
             expect(screen.getByRole('link', { name: 'Back to Home' })).toBeInTheDocument();
         });
@@ -74,7 +74,7 @@ describe('NotFound', () => {
 
     describe('when link paths are set', () => {
         it('Home link points to root', () => {
-            render(<NotFound />, { wrapper });
+            render(<NotFound />, { wrapper: createWrapper() });
 
             const homeLinks = screen.getAllByRole('link', { name: /Home/ });
 
@@ -82,7 +82,7 @@ describe('NotFound', () => {
         });
 
         it('Download link points to download page', () => {
-            render(<NotFound />, { wrapper });
+            render(<NotFound />, { wrapper: createWrapper() });
 
             const downloadLink = screen.getByRole('link', { name: /Download/ });
 
@@ -90,7 +90,7 @@ describe('NotFound', () => {
         });
 
         it('Contact link points to contact page', () => {
-            render(<NotFound />, { wrapper });
+            render(<NotFound />, { wrapper: createWrapper() });
 
             const contactLink = screen.getByRole('link', { name: /Contact/ });
 
@@ -98,9 +98,23 @@ describe('NotFound', () => {
         });
     });
 
+    describe('when language is not English', () => {
+        it('includes language prefix in paths', () => {
+            render(<NotFound />, { wrapper: createWrapper('/es/404') });
+
+            const homeLinks = screen.getAllByRole('link', { name: /Inicio/ });
+            const downloadLink = screen.getByRole('link', { name: /Descargar/ });
+            const contactLink = screen.getByRole('link', { name: /Contacto/ });
+
+            expect(homeLinks[0]).toHaveAttribute('href', '/es');
+            expect(downloadLink).toHaveAttribute('href', '/es/download');
+            expect(contactLink).toHaveAttribute('href', '/es/contact');
+        });
+    });
+
     describe('when icons are displayed', () => {
         it('renders Home icon', () => {
-            const { container } = render(<NotFound />, { wrapper });
+            const { container } = render(<NotFound />, { wrapper: createWrapper() });
 
             const icons = container.querySelectorAll('svg');
 

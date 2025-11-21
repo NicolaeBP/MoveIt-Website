@@ -5,6 +5,8 @@ import LanguageProvider from '@/context/LanguageContext';
 import ThemeProvider from '@/context/ThemeContext';
 import Home from './Home';
 
+import * as useValidateLanguageModule from '../../hooks/useValidateLanguage';
+
 vi.mock('../../components/Seo/Seo', () => ({ default: () => null }));
 vi.mock('react-schemaorg', () => ({ JsonLd: () => null }));
 vi.mock('./Home.utils', () => ({
@@ -19,12 +21,9 @@ vi.mock('./Home.utils', () => ({
     findAssetForOS: () => ({ name: 'app.dmg', browser_download_url: 'https://example.com/app.dmg', size: 1000, download_count: 100 }),
     getHomeSeoData: () => ({}),
 }));
-vi.mock('../../hooks/useValidateLanguage', () => ({
-    useValidateLanguage: () => null,
-}));
 
-const wrapper = ({ children }: { children: React.ReactNode }) => (
-    <MemoryRouter>
+const createWrapper = (path?: string) => ({ children }: { children: React.ReactNode }) => (
+    <MemoryRouter initialEntries={path ? [path] : undefined}>
         <ThemeProvider>
             <LanguageProvider>
                 {children}
@@ -37,11 +36,12 @@ describe('Home', () => {
     beforeEach(() => {
         localStorage.clear();
         vi.clearAllMocks();
+        vi.spyOn(useValidateLanguageModule, 'useValidateLanguage').mockReturnValue(null);
     });
 
     describe('when rendered', () => {
         it('displays hero section', async () => {
-            render(<Home />, { wrapper });
+            render(<Home />, { wrapper: createWrapper() });
 
             await waitFor(() => {
                 expect(screen.getByText('MoveIt')).toBeInTheDocument();
@@ -49,7 +49,7 @@ describe('Home', () => {
         });
 
         it('displays tagline', async () => {
-            render(<Home />, { wrapper });
+            render(<Home />, { wrapper: createWrapper() });
 
             await waitFor(() => {
                 expect(screen.getByText(/Professional Mouse Automation/)).toBeInTheDocument();
@@ -57,7 +57,7 @@ describe('Home', () => {
         });
 
         it('displays Key Features section', async () => {
-            render(<Home />, { wrapper });
+            render(<Home />, { wrapper: createWrapper() });
 
             await waitFor(() => {
                 expect(screen.getByText('Key Features')).toBeInTheDocument();
@@ -65,7 +65,7 @@ describe('Home', () => {
         });
 
         it('displays Perfect For section', async () => {
-            render(<Home />, { wrapper });
+            render(<Home />, { wrapper: createWrapper() });
 
             await waitFor(() => {
                 expect(screen.getByText('Perfect For')).toBeInTheDocument();
@@ -73,10 +73,35 @@ describe('Home', () => {
         });
 
         it('displays CTA section', async () => {
-            render(<Home />, { wrapper });
+            render(<Home />, { wrapper: createWrapper() });
 
             await waitFor(() => {
                 expect(screen.getByText('Ready to Get Started?')).toBeInTheDocument();
+            });
+        });
+    });
+
+    describe('when rendered in non-English language', () => {
+        it('uses language prefix in SEO path', async () => {
+            render(<Home />, { wrapper: createWrapper('/es') });
+
+            await waitFor(() => {
+                expect(screen.getByText('MoveIt')).toBeInTheDocument();
+            });
+        });
+    });
+
+    describe('when invalid language is detected', () => {
+        it('returns NotFound component', async () => {
+            const NotFoundComponent = () => <div>Not Found</div>;
+
+            vi.spyOn(useValidateLanguageModule, 'useValidateLanguage').mockReturnValue(<NotFoundComponent />);
+
+            render(<Home />, { wrapper: createWrapper() });
+
+            await waitFor(() => {
+                expect(screen.getByText('Not Found')).toBeInTheDocument();
+                expect(screen.queryByText('MoveIt')).not.toBeInTheDocument();
             });
         });
     });
