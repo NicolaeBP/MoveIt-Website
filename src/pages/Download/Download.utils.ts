@@ -1,5 +1,25 @@
 import type { WebPage, WithContext } from 'schema-dts';
 
+export interface DownloadSeoData {
+    '@context': string;
+    '@type': 'WebPage';
+    name: string;
+    description: string;
+    url: string;
+    mainEntity: {
+        '@type': 'SoftwareApplication';
+        name: string;
+        applicationCategory: string;
+        operatingSystem: string[];
+        downloadUrl: string;
+        offers: {
+            '@type': 'Offer';
+            price: string;
+            priceCurrency: string;
+        };
+    };
+}
+
 export const isMobileOrTablet = (): boolean => {
     if (typeof globalThis.navigator === 'undefined') return false;
 
@@ -38,7 +58,7 @@ export const extractSections = (body: string): Array<{ title: string; content: s
         }, [] as Array<{ title: string; content: string }>);
 };
 
-export const getDownloadSeoData = (description: string): WithContext<WebPage> => ({
+export const getDownloadSeoData = (description: string): DownloadSeoData & WithContext<WebPage> => ({
     '@context': 'https://schema.org',
     '@type': 'WebPage',
     name: 'Download MoveIt',

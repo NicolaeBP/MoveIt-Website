@@ -1,4 +1,4 @@
-import { Link } from 'react-router-dom';
+import { Link } from 'react-router';
 import React, { useState } from 'react';
 import { Settings as SettingsIcon } from 'lucide-react';
 import { useLanguage } from '../../context/LanguageContext';
