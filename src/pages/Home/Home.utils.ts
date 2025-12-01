@@ -78,10 +78,10 @@ export const getHomeSeoData = (description: string, release?: GitHubRelease | nu
             'Zero data collection',
             'Open-source',
         ],
-        screenshot: 'https://nicolaebp.github.io/MoveIt-Website/images/screenshot.png',
+        screenshot: 'https://www.moveitapp.io/images/screenshot.png',
         softwareVersion: version,
         downloadUrl: dmgAsset?.browser_download_url || `https://github.com/NicolaeBP/MoveIt/releases/latest/download/MoveIt-${version}-arm64.dmg`,
-        installUrl: 'https://nicolaebp.github.io/MoveIt-Website/',
+        installUrl: 'https://www.moveitapp.io/',
         releaseNotes: 'https://github.com/NicolaeBP/MoveIt/releases',
     };
 };

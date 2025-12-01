@@ -24,7 +24,7 @@ export const getContactSeoData = (description: string): ContactSeoData & WithCon
     '@type': 'ContactPage',
     name: 'Contact MoveIt',
     description,
-    url: 'https://nicolaebp.github.io/MoveIt-Website/contact',
+    url: 'https://www.moveitapp.io/contact',
     mainEntity: {
         '@type': 'Person',
         name: 'Nicolae Balica',

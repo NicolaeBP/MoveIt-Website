@@ -5,7 +5,7 @@ const Footer = () => {
     const { t, language } = useLanguage();
 
     const currentYear = new Date().getFullYear();
-    const privacyPolicyUrl = 'https://nicolaebp.github.io/MoveIt-Website/PRIVACY_POLICY';
+    const privacyPolicyUrl = 'https://www.moveitapp.io/PRIVACY_POLICY';
 
     return (
         <footer className="bg-gray-800 dark:bg-[#121212] text-white dark:text-[#E5E5E5] mt-auto">

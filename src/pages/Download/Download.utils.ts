@@ -63,7 +63,7 @@ export const getDownloadSeoData = (description: string): DownloadSeoData & WithC
     '@type': 'WebPage',
     name: 'Download MoveIt',
     description,
-    url: 'https://nicolaebp.github.io/MoveIt-Website/download',
+    url: 'https://www.moveitapp.io/download',
     mainEntity: {
         '@type': 'SoftwareApplication',
         name: 'MoveIt',

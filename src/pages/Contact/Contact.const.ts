@@ -8,5 +8,5 @@ export const CONTACT_METHODS = {
 export const SUPPORT_LINKS = {
     README: 'https://github.com/NicolaeBP/MoveIt#readme',
     DISCUSSIONS: 'https://github.com/NicolaeBP/MoveIt/discussions',
-    PRIVACY_POLICY: 'https://nicolaebp.github.io/MoveIt-Website/PRIVACY_POLICY',
+    PRIVACY_POLICY: 'https://www.moveitapp.io/PRIVACY_POLICY',
 } as const;

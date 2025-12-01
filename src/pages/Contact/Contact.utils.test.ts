@@ -39,7 +39,7 @@ describe('Contact.utils', () => {
             it('includes correct page URL', () => {
                 const result: ContactSeoData = getContactSeoData('Test description');
 
-                expect(result.url).toBe('https://nicolaebp.github.io/MoveIt-Website/contact');
+                expect(result.url).toBe('https://www.moveitapp.io/contact');
             });
         });
     });

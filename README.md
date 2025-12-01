@@ -2,7 +2,7 @@
 
 Official marketing and download website for MoveIt - a professional mouse automation tool for macOS, Windows, and Linux.
 
-**Live Website:** https://nicolaebp.github.io/MoveIt-Website/
+**Live Website:** https://www.moveitapp.io/
 
 ## Overview
 

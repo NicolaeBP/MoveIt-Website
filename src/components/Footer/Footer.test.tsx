@@ -184,7 +184,7 @@ describe('Footer', () => {
 
             const privacyLink = screen.getByRole('link', { name: 'Privacy Policy' });
 
-            expect(privacyLink).toHaveAttribute('href', 'https://nicolaebp.github.io/MoveIt-Website/PRIVACY_POLICY');
+            expect(privacyLink).toHaveAttribute('href', 'https://www.moveitapp.io/PRIVACY_POLICY');
         });
     });
 

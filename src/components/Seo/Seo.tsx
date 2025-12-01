@@ -16,7 +16,7 @@ const Seo = ({
     const { t, language } = useLanguage();
 
     const fullTitle = `${title} | ${t('brand.name')}`;
-    const siteUrl = 'https://nicolaebp.github.io/MoveIt';
+    const siteUrl = 'https://www.moveitapp.io';
     const langPrefix = language === 'en' ? '' : `/${language}`;
     const canonicalUrl = `${siteUrl}${langPrefix}${path}`;
     const languages = ['en', 'ro', 'es', 'fr', 'de', 'it', 'pt-BR', 'pt-PT', 'ru', 'zh-Hans', 'zh-Hant', 'ja', 'ko'];

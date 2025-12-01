@@ -236,7 +236,7 @@ describe('Seo', () => {
             const xDefault = doc.querySelector('link[rel="alternate"][hreflang="x-default"]');
 
             expect(xDefault).toBeTruthy();
-            expect(xDefault?.getAttribute('href')).toContain('nicolaebp.github.io/MoveIt');
+            expect(xDefault?.getAttribute('href')).toContain('www.moveitapp.io');
         });
 
         it('creates hreflang for English', () => {

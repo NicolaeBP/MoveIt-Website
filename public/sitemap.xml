@@ -4,756 +4,756 @@
 
   <!-- English Pages -->
   <url>
-    <loc>https://nicolaebp.github.io/MoveIt-Website/</loc>
+    <loc>https://www.moveitapp.io/</loc>
     <lastmod>2025-11-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://nicolaebp.github.io/MoveIt-Website/"/>
-    <xhtml:link rel="alternate" hreflang="ro" href="https://nicolaebp.github.io/MoveIt-Website/ro/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://nicolaebp.github.io/MoveIt-Website/es/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://nicolaebp.github.io/MoveIt-Website/fr/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://nicolaebp.github.io/MoveIt-Website/de/"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://nicolaebp.github.io/MoveIt-Website/it/"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://nicolaebp.github.io/MoveIt-Website/pt-BR/"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://nicolaebp.github.io/MoveIt-Website/pt-PT/"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://nicolaebp.github.io/MoveIt-Website/ru/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hans/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hant/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://nicolaebp.github.io/MoveIt-Website/ja/"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://nicolaebp.github.io/MoveIt-Website/ko/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://nicolaebp.github.io/MoveIt-Website/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.moveitapp.io/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.moveitapp.io/ro/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.moveitapp.io/es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.moveitapp.io/fr/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.moveitapp.io/de/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.moveitapp.io/it/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.moveitapp.io/pt-BR/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://www.moveitapp.io/pt-PT/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.moveitapp.io/ru/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.moveitapp.io/zh-Hans/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.moveitapp.io/zh-Hant/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.moveitapp.io/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.moveitapp.io/ko/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.moveitapp.io/"/>
   </url>
 
   <url>
-    <loc>https://nicolaebp.github.io/MoveIt-Website/download</loc>
+    <loc>https://www.moveitapp.io/download</loc>
     <lastmod>2025-11-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://nicolaebp.github.io/MoveIt-Website/download"/>
-    <xhtml:link rel="alternate" hreflang="ro" href="https://nicolaebp.github.io/MoveIt-Website/ro/download"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://nicolaebp.github.io/MoveIt-Website/es/download"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://nicolaebp.github.io/MoveIt-Website/fr/download"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://nicolaebp.github.io/MoveIt-Website/de/download"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://nicolaebp.github.io/MoveIt-Website/it/download"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://nicolaebp.github.io/MoveIt-Website/pt-BR/download"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://nicolaebp.github.io/MoveIt-Website/pt-PT/download"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://nicolaebp.github.io/MoveIt-Website/ru/download"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hans/download"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hant/download"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://nicolaebp.github.io/MoveIt-Website/ja/download"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://nicolaebp.github.io/MoveIt-Website/ko/download"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://nicolaebp.github.io/MoveIt-Website/download"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.moveitapp.io/download"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.moveitapp.io/ro/download"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.moveitapp.io/es/download"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.moveitapp.io/fr/download"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.moveitapp.io/de/download"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.moveitapp.io/it/download"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.moveitapp.io/pt-BR/download"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://www.moveitapp.io/pt-PT/download"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.moveitapp.io/ru/download"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.moveitapp.io/zh-Hans/download"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.moveitapp.io/zh-Hant/download"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.moveitapp.io/ja/download"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.moveitapp.io/ko/download"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.moveitapp.io/download"/>
   </url>
 
   <url>
-    <loc>https://nicolaebp.github.io/MoveIt-Website/contact</loc>
+    <loc>https://www.moveitapp.io/contact</loc>
     <lastmod>2025-11-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://nicolaebp.github.io/MoveIt-Website/contact"/>
-    <xhtml:link rel="alternate" hreflang="ro" href="https://nicolaebp.github.io/MoveIt-Website/ro/contact"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://nicolaebp.github.io/MoveIt-Website/es/contact"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://nicolaebp.github.io/MoveIt-Website/fr/contact"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://nicolaebp.github.io/MoveIt-Website/de/contact"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://nicolaebp.github.io/MoveIt-Website/it/contact"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://nicolaebp.github.io/MoveIt-Website/pt-BR/contact"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://nicolaebp.github.io/MoveIt-Website/pt-PT/contact"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://nicolaebp.github.io/MoveIt-Website/ru/contact"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hans/contact"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hant/contact"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://nicolaebp.github.io/MoveIt-Website/ja/contact"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://nicolaebp.github.io/MoveIt-Website/ko/contact"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://nicolaebp.github.io/MoveIt-Website/contact"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.moveitapp.io/contact"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.moveitapp.io/ro/contact"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.moveitapp.io/es/contact"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.moveitapp.io/fr/contact"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.moveitapp.io/de/contact"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.moveitapp.io/it/contact"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.moveitapp.io/pt-BR/contact"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://www.moveitapp.io/pt-PT/contact"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.moveitapp.io/ru/contact"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.moveitapp.io/zh-Hans/contact"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.moveitapp.io/zh-Hant/contact"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.moveitapp.io/ja/contact"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.moveitapp.io/ko/contact"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.moveitapp.io/contact"/>
   </url>
 
   <!-- Romanian Pages -->
   <url>
-    <loc>https://nicolaebp.github.io/MoveIt-Website/ro/</loc>
+    <loc>https://www.moveitapp.io/ro/</loc>
     <lastmod>2025-11-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://nicolaebp.github.io/MoveIt-Website/"/>
-    <xhtml:link rel="alternate" hreflang="ro" href="https://nicolaebp.github.io/MoveIt-Website/ro/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://nicolaebp.github.io/MoveIt-Website/es/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://nicolaebp.github.io/MoveIt-Website/fr/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://nicolaebp.github.io/MoveIt-Website/de/"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://nicolaebp.github.io/MoveIt-Website/it/"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://nicolaebp.github.io/MoveIt-Website/pt-BR/"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://nicolaebp.github.io/MoveIt-Website/pt-PT/"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://nicolaebp.github.io/MoveIt-Website/ru/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hans/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hant/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://nicolaebp.github.io/MoveIt-Website/ja/"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://nicolaebp.github.io/MoveIt-Website/ko/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://nicolaebp.github.io/MoveIt-Website/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.moveitapp.io/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.moveitapp.io/ro/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.moveitapp.io/es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.moveitapp.io/fr/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.moveitapp.io/de/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.moveitapp.io/it/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.moveitapp.io/pt-BR/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://www.moveitapp.io/pt-PT/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.moveitapp.io/ru/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.moveitapp.io/zh-Hans/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.moveitapp.io/zh-Hant/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.moveitapp.io/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.moveitapp.io/ko/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.moveitapp.io/"/>
   </url>
 
   <url>
-    <loc>https://nicolaebp.github.io/MoveIt-Website/ro/download</loc>
+    <loc>https://www.moveitapp.io/ro/download</loc>
     <lastmod>2025-11-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://nicolaebp.github.io/MoveIt-Website/download"/>
-    <xhtml:link rel="alternate" hreflang="ro" href="https://nicolaebp.github.io/MoveIt-Website/ro/download"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://nicolaebp.github.io/MoveIt-Website/es/download"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://nicolaebp.github.io/MoveIt-Website/fr/download"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://nicolaebp.github.io/MoveIt-Website/de/download"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://nicolaebp.github.io/MoveIt-Website/it/download"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://nicolaebp.github.io/MoveIt-Website/pt-BR/download"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://nicolaebp.github.io/MoveIt-Website/pt-PT/download"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://nicolaebp.github.io/MoveIt-Website/ru/download"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hans/download"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hant/download"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://nicolaebp.github.io/MoveIt-Website/ja/download"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://nicolaebp.github.io/MoveIt-Website/ko/download"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://nicolaebp.github.io/MoveIt-Website/download"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.moveitapp.io/download"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.moveitapp.io/ro/download"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.moveitapp.io/es/download"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.moveitapp.io/fr/download"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.moveitapp.io/de/download"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.moveitapp.io/it/download"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.moveitapp.io/pt-BR/download"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://www.moveitapp.io/pt-PT/download"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.moveitapp.io/ru/download"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.moveitapp.io/zh-Hans/download"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.moveitapp.io/zh-Hant/download"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.moveitapp.io/ja/download"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.moveitapp.io/ko/download"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.moveitapp.io/download"/>
   </url>
 
   <url>
-    <loc>https://nicolaebp.github.io/MoveIt-Website/ro/contact</loc>
+    <loc>https://www.moveitapp.io/ro/contact</loc>
     <lastmod>2025-11-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://nicolaebp.github.io/MoveIt-Website/contact"/>
-    <xhtml:link rel="alternate" hreflang="ro" href="https://nicolaebp.github.io/MoveIt-Website/ro/contact"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://nicolaebp.github.io/MoveIt-Website/es/contact"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://nicolaebp.github.io/MoveIt-Website/fr/contact"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://nicolaebp.github.io/MoveIt-Website/de/contact"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://nicolaebp.github.io/MoveIt-Website/it/contact"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://nicolaebp.github.io/MoveIt-Website/pt-BR/contact"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://nicolaebp.github.io/MoveIt-Website/pt-PT/contact"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://nicolaebp.github.io/MoveIt-Website/ru/contact"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hans/contact"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hant/contact"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://nicolaebp.github.io/MoveIt-Website/ja/contact"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://nicolaebp.github.io/MoveIt-Website/ko/contact"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://nicolaebp.github.io/MoveIt-Website/contact"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.moveitapp.io/contact"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.moveitapp.io/ro/contact"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.moveitapp.io/es/contact"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.moveitapp.io/fr/contact"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.moveitapp.io/de/contact"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.moveitapp.io/it/contact"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.moveitapp.io/pt-BR/contact"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://www.moveitapp.io/pt-PT/contact"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.moveitapp.io/ru/contact"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.moveitapp.io/zh-Hans/contact"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.moveitapp.io/zh-Hant/contact"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.moveitapp.io/ja/contact"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.moveitapp.io/ko/contact"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.moveitapp.io/contact"/>
   </url>
 
   <!-- Spanish Pages -->
   <url>
-    <loc>https://nicolaebp.github.io/MoveIt-Website/es/</loc>
+    <loc>https://www.moveitapp.io/es/</loc>
     <lastmod>2025-11-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://nicolaebp.github.io/MoveIt-Website/"/>
-    <xhtml:link rel="alternate" hreflang="ro" href="https://nicolaebp.github.io/MoveIt-Website/ro/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://nicolaebp.github.io/MoveIt-Website/es/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://nicolaebp.github.io/MoveIt-Website/fr/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://nicolaebp.github.io/MoveIt-Website/de/"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://nicolaebp.github.io/MoveIt-Website/it/"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://nicolaebp.github.io/MoveIt-Website/pt-BR/"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://nicolaebp.github.io/MoveIt-Website/pt-PT/"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://nicolaebp.github.io/MoveIt-Website/ru/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hans/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hant/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://nicolaebp.github.io/MoveIt-Website/ja/"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://nicolaebp.github.io/MoveIt-Website/ko/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://nicolaebp.github.io/MoveIt-Website/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.moveitapp.io/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.moveitapp.io/ro/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.moveitapp.io/es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.moveitapp.io/fr/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.moveitapp.io/de/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.moveitapp.io/it/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.moveitapp.io/pt-BR/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://www.moveitapp.io/pt-PT/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.moveitapp.io/ru/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.moveitapp.io/zh-Hans/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.moveitapp.io/zh-Hant/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.moveitapp.io/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.moveitapp.io/ko/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.moveitapp.io/"/>
   </url>
 
   <url>
-    <loc>https://nicolaebp.github.io/MoveIt-Website/es/download</loc>
+    <loc>https://www.moveitapp.io/es/download</loc>
     <lastmod>2025-11-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://nicolaebp.github.io/MoveIt-Website/download"/>
-    <xhtml:link rel="alternate" hreflang="ro" href="https://nicolaebp.github.io/MoveIt-Website/ro/download"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://nicolaebp.github.io/MoveIt-Website/es/download"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://nicolaebp.github.io/MoveIt-Website/fr/download"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://nicolaebp.github.io/MoveIt-Website/de/download"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://nicolaebp.github.io/MoveIt-Website/it/download"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://nicolaebp.github.io/MoveIt-Website/pt-BR/download"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://nicolaebp.github.io/MoveIt-Website/pt-PT/download"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://nicolaebp.github.io/MoveIt-Website/ru/download"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hans/download"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hant/download"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://nicolaebp.github.io/MoveIt-Website/ja/download"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://nicolaebp.github.io/MoveIt-Website/ko/download"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://nicolaebp.github.io/MoveIt-Website/download"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.moveitapp.io/download"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.moveitapp.io/ro/download"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.moveitapp.io/es/download"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.moveitapp.io/fr/download"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.moveitapp.io/de/download"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.moveitapp.io/it/download"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.moveitapp.io/pt-BR/download"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://www.moveitapp.io/pt-PT/download"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.moveitapp.io/ru/download"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.moveitapp.io/zh-Hans/download"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.moveitapp.io/zh-Hant/download"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.moveitapp.io/ja/download"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.moveitapp.io/ko/download"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.moveitapp.io/download"/>
   </url>
 
   <url>
-    <loc>https://nicolaebp.github.io/MoveIt-Website/es/contact</loc>
+    <loc>https://www.moveitapp.io/es/contact</loc>
     <lastmod>2025-11-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://nicolaebp.github.io/MoveIt-Website/contact"/>
-    <xhtml:link rel="alternate" hreflang="ro" href="https://nicolaebp.github.io/MoveIt-Website/ro/contact"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://nicolaebp.github.io/MoveIt-Website/es/contact"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://nicolaebp.github.io/MoveIt-Website/fr/contact"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://nicolaebp.github.io/MoveIt-Website/de/contact"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://nicolaebp.github.io/MoveIt-Website/it/contact"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://nicolaebp.github.io/MoveIt-Website/pt-BR/contact"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://nicolaebp.github.io/MoveIt-Website/pt-PT/contact"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://nicolaebp.github.io/MoveIt-Website/ru/contact"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hans/contact"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hant/contact"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://nicolaebp.github.io/MoveIt-Website/ja/contact"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://nicolaebp.github.io/MoveIt-Website/ko/contact"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://nicolaebp.github.io/MoveIt-Website/contact"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.moveitapp.io/contact"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.moveitapp.io/ro/contact"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.moveitapp.io/es/contact"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.moveitapp.io/fr/contact"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.moveitapp.io/de/contact"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.moveitapp.io/it/contact"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.moveitapp.io/pt-BR/contact"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://www.moveitapp.io/pt-PT/contact"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.moveitapp.io/ru/contact"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.moveitapp.io/zh-Hans/contact"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.moveitapp.io/zh-Hant/contact"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.moveitapp.io/ja/contact"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.moveitapp.io/ko/contact"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.moveitapp.io/contact"/>
   </url>
 
   <!-- French Pages -->
   <url>
-    <loc>https://nicolaebp.github.io/MoveIt-Website/fr/</loc>
+    <loc>https://www.moveitapp.io/fr/</loc>
     <lastmod>2025-11-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://nicolaebp.github.io/MoveIt-Website/"/>
-    <xhtml:link rel="alternate" hreflang="ro" href="https://nicolaebp.github.io/MoveIt-Website/ro/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://nicolaebp.github.io/MoveIt-Website/es/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://nicolaebp.github.io/MoveIt-Website/fr/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://nicolaebp.github.io/MoveIt-Website/de/"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://nicolaebp.github.io/MoveIt-Website/it/"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://nicolaebp.github.io/MoveIt-Website/pt-BR/"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://nicolaebp.github.io/MoveIt-Website/pt-PT/"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://nicolaebp.github.io/MoveIt-Website/ru/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hans/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hant/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://nicolaebp.github.io/MoveIt-Website/ja/"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://nicolaebp.github.io/MoveIt-Website/ko/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://nicolaebp.github.io/MoveIt-Website/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.moveitapp.io/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.moveitapp.io/ro/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.moveitapp.io/es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.moveitapp.io/fr/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.moveitapp.io/de/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.moveitapp.io/it/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.moveitapp.io/pt-BR/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://www.moveitapp.io/pt-PT/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.moveitapp.io/ru/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.moveitapp.io/zh-Hans/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.moveitapp.io/zh-Hant/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.moveitapp.io/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.moveitapp.io/ko/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.moveitapp.io/"/>
   </url>
 
   <url>
-    <loc>https://nicolaebp.github.io/MoveIt-Website/fr/download</loc>
+    <loc>https://www.moveitapp.io/fr/download</loc>
     <lastmod>2025-11-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://nicolaebp.github.io/MoveIt-Website/download"/>
-    <xhtml:link rel="alternate" hreflang="ro" href="https://nicolaebp.github.io/MoveIt-Website/ro/download"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://nicolaebp.github.io/MoveIt-Website/es/download"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://nicolaebp.github.io/MoveIt-Website/fr/download"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://nicolaebp.github.io/MoveIt-Website/de/download"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://nicolaebp.github.io/MoveIt-Website/it/download"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://nicolaebp.github.io/MoveIt-Website/pt-BR/download"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://nicolaebp.github.io/MoveIt-Website/pt-PT/download"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://nicolaebp.github.io/MoveIt-Website/ru/download"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hans/download"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hant/download"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://nicolaebp.github.io/MoveIt-Website/ja/download"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://nicolaebp.github.io/MoveIt-Website/ko/download"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://nicolaebp.github.io/MoveIt-Website/download"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.moveitapp.io/download"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.moveitapp.io/ro/download"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.moveitapp.io/es/download"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.moveitapp.io/fr/download"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.moveitapp.io/de/download"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.moveitapp.io/it/download"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.moveitapp.io/pt-BR/download"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://www.moveitapp.io/pt-PT/download"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.moveitapp.io/ru/download"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.moveitapp.io/zh-Hans/download"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.moveitapp.io/zh-Hant/download"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.moveitapp.io/ja/download"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.moveitapp.io/ko/download"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.moveitapp.io/download"/>
   </url>
 
   <url>
-    <loc>https://nicolaebp.github.io/MoveIt-Website/fr/contact</loc>
+    <loc>https://www.moveitapp.io/fr/contact</loc>
     <lastmod>2025-11-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://nicolaebp.github.io/MoveIt-Website/contact"/>
-    <xhtml:link rel="alternate" hreflang="ro" href="https://nicolaebp.github.io/MoveIt-Website/ro/contact"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://nicolaebp.github.io/MoveIt-Website/es/contact"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://nicolaebp.github.io/MoveIt-Website/fr/contact"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://nicolaebp.github.io/MoveIt-Website/de/contact"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://nicolaebp.github.io/MoveIt-Website/it/contact"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://nicolaebp.github.io/MoveIt-Website/pt-BR/contact"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://nicolaebp.github.io/MoveIt-Website/pt-PT/contact"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://nicolaebp.github.io/MoveIt-Website/ru/contact"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hans/contact"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hant/contact"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://nicolaebp.github.io/MoveIt-Website/ja/contact"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://nicolaebp.github.io/MoveIt-Website/ko/contact"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://nicolaebp.github.io/MoveIt-Website/contact"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.moveitapp.io/contact"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.moveitapp.io/ro/contact"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.moveitapp.io/es/contact"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.moveitapp.io/fr/contact"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.moveitapp.io/de/contact"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.moveitapp.io/it/contact"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.moveitapp.io/pt-BR/contact"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://www.moveitapp.io/pt-PT/contact"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.moveitapp.io/ru/contact"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.moveitapp.io/zh-Hans/contact"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.moveitapp.io/zh-Hant/contact"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.moveitapp.io/ja/contact"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.moveitapp.io/ko/contact"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.moveitapp.io/contact"/>
   </url>
 
   <!-- German Pages -->
   <url>
-    <loc>https://nicolaebp.github.io/MoveIt-Website/de/</loc>
+    <loc>https://www.moveitapp.io/de/</loc>
     <lastmod>2025-11-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://nicolaebp.github.io/MoveIt-Website/"/>
-    <xhtml:link rel="alternate" hreflang="ro" href="https://nicolaebp.github.io/MoveIt-Website/ro/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://nicolaebp.github.io/MoveIt-Website/es/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://nicolaebp.github.io/MoveIt-Website/fr/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://nicolaebp.github.io/MoveIt-Website/de/"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://nicolaebp.github.io/MoveIt-Website/it/"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://nicolaebp.github.io/MoveIt-Website/pt-BR/"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://nicolaebp.github.io/MoveIt-Website/pt-PT/"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://nicolaebp.github.io/MoveIt-Website/ru/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hans/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hant/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://nicolaebp.github.io/MoveIt-Website/ja/"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://nicolaebp.github.io/MoveIt-Website/ko/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://nicolaebp.github.io/MoveIt-Website/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.moveitapp.io/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.moveitapp.io/ro/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.moveitapp.io/es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.moveitapp.io/fr/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.moveitapp.io/de/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.moveitapp.io/it/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.moveitapp.io/pt-BR/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://www.moveitapp.io/pt-PT/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.moveitapp.io/ru/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.moveitapp.io/zh-Hans/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.moveitapp.io/zh-Hant/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.moveitapp.io/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.moveitapp.io/ko/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.moveitapp.io/"/>
   </url>
 
   <url>
-    <loc>https://nicolaebp.github.io/MoveIt-Website/de/download</loc>
+    <loc>https://www.moveitapp.io/de/download</loc>
     <lastmod>2025-11-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://nicolaebp.github.io/MoveIt-Website/download"/>
-    <xhtml:link rel="alternate" hreflang="ro" href="https://nicolaebp.github.io/MoveIt-Website/ro/download"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://nicolaebp.github.io/MoveIt-Website/es/download"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://nicolaebp.github.io/MoveIt-Website/fr/download"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://nicolaebp.github.io/MoveIt-Website/de/download"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://nicolaebp.github.io/MoveIt-Website/it/download"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://nicolaebp.github.io/MoveIt-Website/pt-BR/download"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://nicolaebp.github.io/MoveIt-Website/pt-PT/download"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://nicolaebp.github.io/MoveIt-Website/ru/download"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hans/download"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hant/download"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://nicolaebp.github.io/MoveIt-Website/ja/download"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://nicolaebp.github.io/MoveIt-Website/ko/download"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://nicolaebp.github.io/MoveIt-Website/download"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.moveitapp.io/download"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.moveitapp.io/ro/download"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.moveitapp.io/es/download"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.moveitapp.io/fr/download"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.moveitapp.io/de/download"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.moveitapp.io/it/download"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.moveitapp.io/pt-BR/download"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://www.moveitapp.io/pt-PT/download"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.moveitapp.io/ru/download"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.moveitapp.io/zh-Hans/download"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.moveitapp.io/zh-Hant/download"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.moveitapp.io/ja/download"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.moveitapp.io/ko/download"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.moveitapp.io/download"/>
   </url>
 
   <url>
-    <loc>https://nicolaebp.github.io/MoveIt-Website/de/contact</loc>
+    <loc>https://www.moveitapp.io/de/contact</loc>
     <lastmod>2025-11-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://nicolaebp.github.io/MoveIt-Website/contact"/>
-    <xhtml:link rel="alternate" hreflang="ro" href="https://nicolaebp.github.io/MoveIt-Website/ro/contact"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://nicolaebp.github.io/MoveIt-Website/es/contact"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://nicolaebp.github.io/MoveIt-Website/fr/contact"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://nicolaebp.github.io/MoveIt-Website/de/contact"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://nicolaebp.github.io/MoveIt-Website/it/contact"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://nicolaebp.github.io/MoveIt-Website/pt-BR/contact"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://nicolaebp.github.io/MoveIt-Website/pt-PT/contact"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://nicolaebp.github.io/MoveIt-Website/ru/contact"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hans/contact"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hant/contact"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://nicolaebp.github.io/MoveIt-Website/ja/contact"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://nicolaebp.github.io/MoveIt-Website/ko/contact"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://nicolaebp.github.io/MoveIt-Website/contact"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.moveitapp.io/contact"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.moveitapp.io/ro/contact"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.moveitapp.io/es/contact"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.moveitapp.io/fr/contact"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.moveitapp.io/de/contact"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.moveitapp.io/it/contact"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.moveitapp.io/pt-BR/contact"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://www.moveitapp.io/pt-PT/contact"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.moveitapp.io/ru/contact"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.moveitapp.io/zh-Hans/contact"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.moveitapp.io/zh-Hant/contact"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.moveitapp.io/ja/contact"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.moveitapp.io/ko/contact"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.moveitapp.io/contact"/>
   </url>
 
   <!-- Italian Pages -->
   <url>
-    <loc>https://nicolaebp.github.io/MoveIt-Website/it/</loc>
+    <loc>https://www.moveitapp.io/it/</loc>
     <lastmod>2025-11-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://nicolaebp.github.io/MoveIt-Website/"/>
-    <xhtml:link rel="alternate" hreflang="ro" href="https://nicolaebp.github.io/MoveIt-Website/ro/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://nicolaebp.github.io/MoveIt-Website/es/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://nicolaebp.github.io/MoveIt-Website/fr/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://nicolaebp.github.io/MoveIt-Website/de/"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://nicolaebp.github.io/MoveIt-Website/it/"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://nicolaebp.github.io/MoveIt-Website/pt-BR/"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://nicolaebp.github.io/MoveIt-Website/pt-PT/"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://nicolaebp.github.io/MoveIt-Website/ru/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hans/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hant/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://nicolaebp.github.io/MoveIt-Website/ja/"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://nicolaebp.github.io/MoveIt-Website/ko/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://nicolaebp.github.io/MoveIt-Website/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.moveitapp.io/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.moveitapp.io/ro/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.moveitapp.io/es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.moveitapp.io/fr/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.moveitapp.io/de/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.moveitapp.io/it/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.moveitapp.io/pt-BR/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://www.moveitapp.io/pt-PT/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.moveitapp.io/ru/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.moveitapp.io/zh-Hans/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.moveitapp.io/zh-Hant/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.moveitapp.io/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.moveitapp.io/ko/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.moveitapp.io/"/>
   </url>
 
   <url>
-    <loc>https://nicolaebp.github.io/MoveIt-Website/it/download</loc>
+    <loc>https://www.moveitapp.io/it/download</loc>
     <lastmod>2025-11-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://nicolaebp.github.io/MoveIt-Website/download"/>
-    <xhtml:link rel="alternate" hreflang="ro" href="https://nicolaebp.github.io/MoveIt-Website/ro/download"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://nicolaebp.github.io/MoveIt-Website/es/download"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://nicolaebp.github.io/MoveIt-Website/fr/download"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://nicolaebp.github.io/MoveIt-Website/de/download"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://nicolaebp.github.io/MoveIt-Website/it/download"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://nicolaebp.github.io/MoveIt-Website/pt-BR/download"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://nicolaebp.github.io/MoveIt-Website/pt-PT/download"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://nicolaebp.github.io/MoveIt-Website/ru/download"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hans/download"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hant/download"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://nicolaebp.github.io/MoveIt-Website/ja/download"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://nicolaebp.github.io/MoveIt-Website/ko/download"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://nicolaebp.github.io/MoveIt-Website/download"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.moveitapp.io/download"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.moveitapp.io/ro/download"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.moveitapp.io/es/download"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.moveitapp.io/fr/download"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.moveitapp.io/de/download"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.moveitapp.io/it/download"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.moveitapp.io/pt-BR/download"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://www.moveitapp.io/pt-PT/download"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.moveitapp.io/ru/download"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.moveitapp.io/zh-Hans/download"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.moveitapp.io/zh-Hant/download"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.moveitapp.io/ja/download"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.moveitapp.io/ko/download"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.moveitapp.io/download"/>
   </url>
 
   <url>
-    <loc>https://nicolaebp.github.io/MoveIt-Website/it/contact</loc>
+    <loc>https://www.moveitapp.io/it/contact</loc>
     <lastmod>2025-11-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://nicolaebp.github.io/MoveIt-Website/contact"/>
-    <xhtml:link rel="alternate" hreflang="ro" href="https://nicolaebp.github.io/MoveIt-Website/ro/contact"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://nicolaebp.github.io/MoveIt-Website/es/contact"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://nicolaebp.github.io/MoveIt-Website/fr/contact"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://nicolaebp.github.io/MoveIt-Website/de/contact"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://nicolaebp.github.io/MoveIt-Website/it/contact"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://nicolaebp.github.io/MoveIt-Website/pt-BR/contact"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://nicolaebp.github.io/MoveIt-Website/pt-PT/contact"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://nicolaebp.github.io/MoveIt-Website/ru/contact"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hans/contact"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hant/contact"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://nicolaebp.github.io/MoveIt-Website/ja/contact"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://nicolaebp.github.io/MoveIt-Website/ko/contact"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://nicolaebp.github.io/MoveIt-Website/contact"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.moveitapp.io/contact"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.moveitapp.io/ro/contact"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.moveitapp.io/es/contact"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.moveitapp.io/fr/contact"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.moveitapp.io/de/contact"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.moveitapp.io/it/contact"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.moveitapp.io/pt-BR/contact"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://www.moveitapp.io/pt-PT/contact"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.moveitapp.io/ru/contact"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.moveitapp.io/zh-Hans/contact"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.moveitapp.io/zh-Hant/contact"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.moveitapp.io/ja/contact"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.moveitapp.io/ko/contact"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.moveitapp.io/contact"/>
   </url>
 
   <!-- Portuguese (Brazil) Pages -->
   <url>
-    <loc>https://nicolaebp.github.io/MoveIt-Website/pt-BR/</loc>
+    <loc>https://www.moveitapp.io/pt-BR/</loc>
     <lastmod>2025-11-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://nicolaebp.github.io/MoveIt-Website/"/>
-    <xhtml:link rel="alternate" hreflang="ro" href="https://nicolaebp.github.io/MoveIt-Website/ro/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://nicolaebp.github.io/MoveIt-Website/es/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://nicolaebp.github.io/MoveIt-Website/fr/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://nicolaebp.github.io/MoveIt-Website/de/"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://nicolaebp.github.io/MoveIt-Website/it/"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://nicolaebp.github.io/MoveIt-Website/pt-BR/"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://nicolaebp.github.io/MoveIt-Website/pt-PT/"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://nicolaebp.github.io/MoveIt-Website/ru/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hans/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hant/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://nicolaebp.github.io/MoveIt-Website/ja/"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://nicolaebp.github.io/MoveIt-Website/ko/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://nicolaebp.github.io/MoveIt-Website/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.moveitapp.io/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.moveitapp.io/ro/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.moveitapp.io/es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.moveitapp.io/fr/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.moveitapp.io/de/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.moveitapp.io/it/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.moveitapp.io/pt-BR/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://www.moveitapp.io/pt-PT/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.moveitapp.io/ru/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.moveitapp.io/zh-Hans/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.moveitapp.io/zh-Hant/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.moveitapp.io/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.moveitapp.io/ko/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.moveitapp.io/"/>
   </url>
 
   <url>
-    <loc>https://nicolaebp.github.io/MoveIt-Website/pt-BR/download</loc>
+    <loc>https://www.moveitapp.io/pt-BR/download</loc>
     <lastmod>2025-11-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://nicolaebp.github.io/MoveIt-Website/download"/>
-    <xhtml:link rel="alternate" hreflang="ro" href="https://nicolaebp.github.io/MoveIt-Website/ro/download"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://nicolaebp.github.io/MoveIt-Website/es/download"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://nicolaebp.github.io/MoveIt-Website/fr/download"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://nicolaebp.github.io/MoveIt-Website/de/download"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://nicolaebp.github.io/MoveIt-Website/it/download"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://nicolaebp.github.io/MoveIt-Website/pt-BR/download"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://nicolaebp.github.io/MoveIt-Website/pt-PT/download"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://nicolaebp.github.io/MoveIt-Website/ru/download"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hans/download"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hant/download"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://nicolaebp.github.io/MoveIt-Website/ja/download"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://nicolaebp.github.io/MoveIt-Website/ko/download"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://nicolaebp.github.io/MoveIt-Website/download"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.moveitapp.io/download"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.moveitapp.io/ro/download"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.moveitapp.io/es/download"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.moveitapp.io/fr/download"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.moveitapp.io/de/download"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.moveitapp.io/it/download"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.moveitapp.io/pt-BR/download"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://www.moveitapp.io/pt-PT/download"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.moveitapp.io/ru/download"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.moveitapp.io/zh-Hans/download"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.moveitapp.io/zh-Hant/download"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.moveitapp.io/ja/download"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.moveitapp.io/ko/download"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.moveitapp.io/download"/>
   </url>
 
   <url>
-    <loc>https://nicolaebp.github.io/MoveIt-Website/pt-BR/contact</loc>
+    <loc>https://www.moveitapp.io/pt-BR/contact</loc>
     <lastmod>2025-11-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://nicolaebp.github.io/MoveIt-Website/contact"/>
-    <xhtml:link rel="alternate" hreflang="ro" href="https://nicolaebp.github.io/MoveIt-Website/ro/contact"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://nicolaebp.github.io/MoveIt-Website/es/contact"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://nicolaebp.github.io/MoveIt-Website/fr/contact"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://nicolaebp.github.io/MoveIt-Website/de/contact"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://nicolaebp.github.io/MoveIt-Website/it/contact"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://nicolaebp.github.io/MoveIt-Website/pt-BR/contact"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://nicolaebp.github.io/MoveIt-Website/pt-PT/contact"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://nicolaebp.github.io/MoveIt-Website/ru/contact"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hans/contact"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hant/contact"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://nicolaebp.github.io/MoveIt-Website/ja/contact"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://nicolaebp.github.io/MoveIt-Website/ko/contact"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://nicolaebp.github.io/MoveIt-Website/contact"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.moveitapp.io/contact"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.moveitapp.io/ro/contact"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.moveitapp.io/es/contact"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.moveitapp.io/fr/contact"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.moveitapp.io/de/contact"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.moveitapp.io/it/contact"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.moveitapp.io/pt-BR/contact"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://www.moveitapp.io/pt-PT/contact"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.moveitapp.io/ru/contact"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.moveitapp.io/zh-Hans/contact"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.moveitapp.io/zh-Hant/contact"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.moveitapp.io/ja/contact"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.moveitapp.io/ko/contact"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.moveitapp.io/contact"/>
   </url>
 
   <!-- Portuguese (Portugal) Pages -->
   <url>
-    <loc>https://nicolaebp.github.io/MoveIt-Website/pt-PT/</loc>
+    <loc>https://www.moveitapp.io/pt-PT/</loc>
     <lastmod>2025-11-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://nicolaebp.github.io/MoveIt-Website/"/>
-    <xhtml:link rel="alternate" hreflang="ro" href="https://nicolaebp.github.io/MoveIt-Website/ro/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://nicolaebp.github.io/MoveIt-Website/es/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://nicolaebp.github.io/MoveIt-Website/fr/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://nicolaebp.github.io/MoveIt-Website/de/"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://nicolaebp.github.io/MoveIt-Website/it/"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://nicolaebp.github.io/MoveIt-Website/pt-BR/"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://nicolaebp.github.io/MoveIt-Website/pt-PT/"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://nicolaebp.github.io/MoveIt-Website/ru/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hans/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hant/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://nicolaebp.github.io/MoveIt-Website/ja/"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://nicolaebp.github.io/MoveIt-Website/ko/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://nicolaebp.github.io/MoveIt-Website/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.moveitapp.io/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.moveitapp.io/ro/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.moveitapp.io/es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.moveitapp.io/fr/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.moveitapp.io/de/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.moveitapp.io/it/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.moveitapp.io/pt-BR/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://www.moveitapp.io/pt-PT/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.moveitapp.io/ru/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.moveitapp.io/zh-Hans/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.moveitapp.io/zh-Hant/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.moveitapp.io/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.moveitapp.io/ko/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.moveitapp.io/"/>
   </url>
 
   <url>
-    <loc>https://nicolaebp.github.io/MoveIt-Website/pt-PT/download</loc>
+    <loc>https://www.moveitapp.io/pt-PT/download</loc>
     <lastmod>2025-11-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://nicolaebp.github.io/MoveIt-Website/download"/>
-    <xhtml:link rel="alternate" hreflang="ro" href="https://nicolaebp.github.io/MoveIt-Website/ro/download"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://nicolaebp.github.io/MoveIt-Website/es/download"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://nicolaebp.github.io/MoveIt-Website/fr/download"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://nicolaebp.github.io/MoveIt-Website/de/download"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://nicolaebp.github.io/MoveIt-Website/it/download"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://nicolaebp.github.io/MoveIt-Website/pt-BR/download"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://nicolaebp.github.io/MoveIt-Website/pt-PT/download"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://nicolaebp.github.io/MoveIt-Website/ru/download"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hans/download"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hant/download"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://nicolaebp.github.io/MoveIt-Website/ja/download"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://nicolaebp.github.io/MoveIt-Website/ko/download"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://nicolaebp.github.io/MoveIt-Website/download"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.moveitapp.io/download"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.moveitapp.io/ro/download"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.moveitapp.io/es/download"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.moveitapp.io/fr/download"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.moveitapp.io/de/download"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.moveitapp.io/it/download"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.moveitapp.io/pt-BR/download"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://www.moveitapp.io/pt-PT/download"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.moveitapp.io/ru/download"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.moveitapp.io/zh-Hans/download"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.moveitapp.io/zh-Hant/download"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.moveitapp.io/ja/download"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.moveitapp.io/ko/download"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.moveitapp.io/download"/>
   </url>
 
   <url>
-    <loc>https://nicolaebp.github.io/MoveIt-Website/pt-PT/contact</loc>
+    <loc>https://www.moveitapp.io/pt-PT/contact</loc>
     <lastmod>2025-11-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://nicolaebp.github.io/MoveIt-Website/contact"/>
-    <xhtml:link rel="alternate" hreflang="ro" href="https://nicolaebp.github.io/MoveIt-Website/ro/contact"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://nicolaebp.github.io/MoveIt-Website/es/contact"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://nicolaebp.github.io/MoveIt-Website/fr/contact"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://nicolaebp.github.io/MoveIt-Website/de/contact"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://nicolaebp.github.io/MoveIt-Website/it/contact"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://nicolaebp.github.io/MoveIt-Website/pt-BR/contact"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://nicolaebp.github.io/MoveIt-Website/pt-PT/contact"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://nicolaebp.github.io/MoveIt-Website/ru/contact"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hans/contact"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hant/contact"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://nicolaebp.github.io/MoveIt-Website/ja/contact"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://nicolaebp.github.io/MoveIt-Website/ko/contact"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://nicolaebp.github.io/MoveIt-Website/contact"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.moveitapp.io/contact"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.moveitapp.io/ro/contact"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.moveitapp.io/es/contact"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.moveitapp.io/fr/contact"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.moveitapp.io/de/contact"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.moveitapp.io/it/contact"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.moveitapp.io/pt-BR/contact"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://www.moveitapp.io/pt-PT/contact"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.moveitapp.io/ru/contact"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.moveitapp.io/zh-Hans/contact"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.moveitapp.io/zh-Hant/contact"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.moveitapp.io/ja/contact"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.moveitapp.io/ko/contact"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.moveitapp.io/contact"/>
   </url>
 
   <!-- Russian Pages -->
   <url>
-    <loc>https://nicolaebp.github.io/MoveIt-Website/ru/</loc>
+    <loc>https://www.moveitapp.io/ru/</loc>
     <lastmod>2025-11-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://nicolaebp.github.io/MoveIt-Website/"/>
-    <xhtml:link rel="alternate" hreflang="ro" href="https://nicolaebp.github.io/MoveIt-Website/ro/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://nicolaebp.github.io/MoveIt-Website/es/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://nicolaebp.github.io/MoveIt-Website/fr/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://nicolaebp.github.io/MoveIt-Website/de/"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://nicolaebp.github.io/MoveIt-Website/it/"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://nicolaebp.github.io/MoveIt-Website/pt-BR/"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://nicolaebp.github.io/MoveIt-Website/pt-PT/"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://nicolaebp.github.io/MoveIt-Website/ru/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hans/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hant/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://nicolaebp.github.io/MoveIt-Website/ja/"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://nicolaebp.github.io/MoveIt-Website/ko/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://nicolaebp.github.io/MoveIt-Website/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.moveitapp.io/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.moveitapp.io/ro/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.moveitapp.io/es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.moveitapp.io/fr/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.moveitapp.io/de/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.moveitapp.io/it/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.moveitapp.io/pt-BR/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://www.moveitapp.io/pt-PT/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.moveitapp.io/ru/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.moveitapp.io/zh-Hans/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.moveitapp.io/zh-Hant/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.moveitapp.io/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.moveitapp.io/ko/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.moveitapp.io/"/>
   </url>
 
   <url>
-    <loc>https://nicolaebp.github.io/MoveIt-Website/ru/download</loc>
+    <loc>https://www.moveitapp.io/ru/download</loc>
     <lastmod>2025-11-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://nicolaebp.github.io/MoveIt-Website/download"/>
-    <xhtml:link rel="alternate" hreflang="ro" href="https://nicolaebp.github.io/MoveIt-Website/ro/download"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://nicolaebp.github.io/MoveIt-Website/es/download"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://nicolaebp.github.io/MoveIt-Website/fr/download"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://nicolaebp.github.io/MoveIt-Website/de/download"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://nicolaebp.github.io/MoveIt-Website/it/download"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://nicolaebp.github.io/MoveIt-Website/pt-BR/download"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://nicolaebp.github.io/MoveIt-Website/pt-PT/download"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://nicolaebp.github.io/MoveIt-Website/ru/download"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hans/download"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hant/download"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://nicolaebp.github.io/MoveIt-Website/ja/download"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://nicolaebp.github.io/MoveIt-Website/ko/download"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://nicolaebp.github.io/MoveIt-Website/download"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.moveitapp.io/download"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.moveitapp.io/ro/download"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.moveitapp.io/es/download"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.moveitapp.io/fr/download"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.moveitapp.io/de/download"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.moveitapp.io/it/download"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.moveitapp.io/pt-BR/download"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://www.moveitapp.io/pt-PT/download"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.moveitapp.io/ru/download"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.moveitapp.io/zh-Hans/download"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.moveitapp.io/zh-Hant/download"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.moveitapp.io/ja/download"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.moveitapp.io/ko/download"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.moveitapp.io/download"/>
   </url>
 
   <url>
-    <loc>https://nicolaebp.github.io/MoveIt-Website/ru/contact</loc>
+    <loc>https://www.moveitapp.io/ru/contact</loc>
     <lastmod>2025-11-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://nicolaebp.github.io/MoveIt-Website/contact"/>
-    <xhtml:link rel="alternate" hreflang="ro" href="https://nicolaebp.github.io/MoveIt-Website/ro/contact"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://nicolaebp.github.io/MoveIt-Website/es/contact"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://nicolaebp.github.io/MoveIt-Website/fr/contact"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://nicolaebp.github.io/MoveIt-Website/de/contact"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://nicolaebp.github.io/MoveIt-Website/it/contact"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://nicolaebp.github.io/MoveIt-Website/pt-BR/contact"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://nicolaebp.github.io/MoveIt-Website/pt-PT/contact"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://nicolaebp.github.io/MoveIt-Website/ru/contact"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hans/contact"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hant/contact"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://nicolaebp.github.io/MoveIt-Website/ja/contact"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://nicolaebp.github.io/MoveIt-Website/ko/contact"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://nicolaebp.github.io/MoveIt-Website/contact"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.moveitapp.io/contact"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.moveitapp.io/ro/contact"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.moveitapp.io/es/contact"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.moveitapp.io/fr/contact"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.moveitapp.io/de/contact"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.moveitapp.io/it/contact"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.moveitapp.io/pt-BR/contact"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://www.moveitapp.io/pt-PT/contact"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.moveitapp.io/ru/contact"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.moveitapp.io/zh-Hans/contact"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.moveitapp.io/zh-Hant/contact"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.moveitapp.io/ja/contact"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.moveitapp.io/ko/contact"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.moveitapp.io/contact"/>
   </url>
 
   <!-- Chinese (Simplified) Pages -->
   <url>
-    <loc>https://nicolaebp.github.io/MoveIt-Website/zh-Hans/</loc>
+    <loc>https://www.moveitapp.io/zh-Hans/</loc>
     <lastmod>2025-11-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://nicolaebp.github.io/MoveIt-Website/"/>
-    <xhtml:link rel="alternate" hreflang="ro" href="https://nicolaebp.github.io/MoveIt-Website/ro/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://nicolaebp.github.io/MoveIt-Website/es/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://nicolaebp.github.io/MoveIt-Website/fr/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://nicolaebp.github.io/MoveIt-Website/de/"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://nicolaebp.github.io/MoveIt-Website/it/"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://nicolaebp.github.io/MoveIt-Website/pt-BR/"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://nicolaebp.github.io/MoveIt-Website/pt-PT/"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://nicolaebp.github.io/MoveIt-Website/ru/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hans/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hant/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://nicolaebp.github.io/MoveIt-Website/ja/"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://nicolaebp.github.io/MoveIt-Website/ko/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://nicolaebp.github.io/MoveIt-Website/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.moveitapp.io/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.moveitapp.io/ro/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.moveitapp.io/es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.moveitapp.io/fr/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.moveitapp.io/de/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.moveitapp.io/it/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.moveitapp.io/pt-BR/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://www.moveitapp.io/pt-PT/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.moveitapp.io/ru/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.moveitapp.io/zh-Hans/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.moveitapp.io/zh-Hant/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.moveitapp.io/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.moveitapp.io/ko/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.moveitapp.io/"/>
   </url>
 
   <url>
-    <loc>https://nicolaebp.github.io/MoveIt-Website/zh-Hans/download</loc>
+    <loc>https://www.moveitapp.io/zh-Hans/download</loc>
     <lastmod>2025-11-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://nicolaebp.github.io/MoveIt-Website/download"/>
-    <xhtml:link rel="alternate" hreflang="ro" href="https://nicolaebp.github.io/MoveIt-Website/ro/download"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://nicolaebp.github.io/MoveIt-Website/es/download"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://nicolaebp.github.io/MoveIt-Website/fr/download"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://nicolaebp.github.io/MoveIt-Website/de/download"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://nicolaebp.github.io/MoveIt-Website/it/download"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://nicolaebp.github.io/MoveIt-Website/pt-BR/download"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://nicolaebp.github.io/MoveIt-Website/pt-PT/download"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://nicolaebp.github.io/MoveIt-Website/ru/download"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hans/download"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hant/download"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://nicolaebp.github.io/MoveIt-Website/ja/download"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://nicolaebp.github.io/MoveIt-Website/ko/download"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://nicolaebp.github.io/MoveIt-Website/download"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.moveitapp.io/download"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.moveitapp.io/ro/download"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.moveitapp.io/es/download"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.moveitapp.io/fr/download"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.moveitapp.io/de/download"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.moveitapp.io/it/download"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.moveitapp.io/pt-BR/download"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://www.moveitapp.io/pt-PT/download"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.moveitapp.io/ru/download"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.moveitapp.io/zh-Hans/download"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.moveitapp.io/zh-Hant/download"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.moveitapp.io/ja/download"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.moveitapp.io/ko/download"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.moveitapp.io/download"/>
   </url>
 
   <url>
-    <loc>https://nicolaebp.github.io/MoveIt-Website/zh-Hans/contact</loc>
+    <loc>https://www.moveitapp.io/zh-Hans/contact</loc>
     <lastmod>2025-11-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://nicolaebp.github.io/MoveIt-Website/contact"/>
-    <xhtml:link rel="alternate" hreflang="ro" href="https://nicolaebp.github.io/MoveIt-Website/ro/contact"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://nicolaebp.github.io/MoveIt-Website/es/contact"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://nicolaebp.github.io/MoveIt-Website/fr/contact"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://nicolaebp.github.io/MoveIt-Website/de/contact"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://nicolaebp.github.io/MoveIt-Website/it/contact"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://nicolaebp.github.io/MoveIt-Website/pt-BR/contact"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://nicolaebp.github.io/MoveIt-Website/pt-PT/contact"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://nicolaebp.github.io/MoveIt-Website/ru/contact"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hans/contact"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hant/contact"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://nicolaebp.github.io/MoveIt-Website/ja/contact"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://nicolaebp.github.io/MoveIt-Website/ko/contact"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://nicolaebp.github.io/MoveIt-Website/contact"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.moveitapp.io/contact"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.moveitapp.io/ro/contact"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.moveitapp.io/es/contact"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.moveitapp.io/fr/contact"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.moveitapp.io/de/contact"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.moveitapp.io/it/contact"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.moveitapp.io/pt-BR/contact"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://www.moveitapp.io/pt-PT/contact"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.moveitapp.io/ru/contact"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.moveitapp.io/zh-Hans/contact"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.moveitapp.io/zh-Hant/contact"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.moveitapp.io/ja/contact"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.moveitapp.io/ko/contact"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.moveitapp.io/contact"/>
   </url>
 
   <!-- Chinese (Traditional) Pages -->
   <url>
-    <loc>https://nicolaebp.github.io/MoveIt-Website/zh-Hant/</loc>
+    <loc>https://www.moveitapp.io/zh-Hant/</loc>
     <lastmod>2025-11-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://nicolaebp.github.io/MoveIt-Website/"/>
-    <xhtml:link rel="alternate" hreflang="ro" href="https://nicolaebp.github.io/MoveIt-Website/ro/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://nicolaebp.github.io/MoveIt-Website/es/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://nicolaebp.github.io/MoveIt-Website/fr/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://nicolaebp.github.io/MoveIt-Website/de/"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://nicolaebp.github.io/MoveIt-Website/it/"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://nicolaebp.github.io/MoveIt-Website/pt-BR/"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://nicolaebp.github.io/MoveIt-Website/pt-PT/"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://nicolaebp.github.io/MoveIt-Website/ru/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hans/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hant/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://nicolaebp.github.io/MoveIt-Website/ja/"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://nicolaebp.github.io/MoveIt-Website/ko/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://nicolaebp.github.io/MoveIt-Website/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.moveitapp.io/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.moveitapp.io/ro/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.moveitapp.io/es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.moveitapp.io/fr/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.moveitapp.io/de/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.moveitapp.io/it/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.moveitapp.io/pt-BR/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://www.moveitapp.io/pt-PT/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.moveitapp.io/ru/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.moveitapp.io/zh-Hans/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.moveitapp.io/zh-Hant/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.moveitapp.io/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.moveitapp.io/ko/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.moveitapp.io/"/>
   </url>
 
   <url>
-    <loc>https://nicolaebp.github.io/MoveIt-Website/zh-Hant/download</loc>
+    <loc>https://www.moveitapp.io/zh-Hant/download</loc>
     <lastmod>2025-11-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://nicolaebp.github.io/MoveIt-Website/download"/>
-    <xhtml:link rel="alternate" hreflang="ro" href="https://nicolaebp.github.io/MoveIt-Website/ro/download"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://nicolaebp.github.io/MoveIt-Website/es/download"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://nicolaebp.github.io/MoveIt-Website/fr/download"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://nicolaebp.github.io/MoveIt-Website/de/download"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://nicolaebp.github.io/MoveIt-Website/it/download"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://nicolaebp.github.io/MoveIt-Website/pt-BR/download"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://nicolaebp.github.io/MoveIt-Website/pt-PT/download"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://nicolaebp.github.io/MoveIt-Website/ru/download"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hans/download"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hant/download"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://nicolaebp.github.io/MoveIt-Website/ja/download"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://nicolaebp.github.io/MoveIt-Website/ko/download"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://nicolaebp.github.io/MoveIt-Website/download"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.moveitapp.io/download"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.moveitapp.io/ro/download"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.moveitapp.io/es/download"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.moveitapp.io/fr/download"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.moveitapp.io/de/download"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.moveitapp.io/it/download"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.moveitapp.io/pt-BR/download"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://www.moveitapp.io/pt-PT/download"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.moveitapp.io/ru/download"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.moveitapp.io/zh-Hans/download"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.moveitapp.io/zh-Hant/download"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.moveitapp.io/ja/download"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.moveitapp.io/ko/download"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.moveitapp.io/download"/>
   </url>
 
   <url>
-    <loc>https://nicolaebp.github.io/MoveIt-Website/zh-Hant/contact</loc>
+    <loc>https://www.moveitapp.io/zh-Hant/contact</loc>
     <lastmod>2025-11-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://nicolaebp.github.io/MoveIt-Website/contact"/>
-    <xhtml:link rel="alternate" hreflang="ro" href="https://nicolaebp.github.io/MoveIt-Website/ro/contact"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://nicolaebp.github.io/MoveIt-Website/es/contact"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://nicolaebp.github.io/MoveIt-Website/fr/contact"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://nicolaebp.github.io/MoveIt-Website/de/contact"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://nicolaebp.github.io/MoveIt-Website/it/contact"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://nicolaebp.github.io/MoveIt-Website/pt-BR/contact"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://nicolaebp.github.io/MoveIt-Website/pt-PT/contact"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://nicolaebp.github.io/MoveIt-Website/ru/contact"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hans/contact"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hant/contact"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://nicolaebp.github.io/MoveIt-Website/ja/contact"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://nicolaebp.github.io/MoveIt-Website/ko/contact"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://nicolaebp.github.io/MoveIt-Website/contact"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.moveitapp.io/contact"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.moveitapp.io/ro/contact"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.moveitapp.io/es/contact"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.moveitapp.io/fr/contact"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.moveitapp.io/de/contact"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.moveitapp.io/it/contact"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.moveitapp.io/pt-BR/contact"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://www.moveitapp.io/pt-PT/contact"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.moveitapp.io/ru/contact"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.moveitapp.io/zh-Hans/contact"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.moveitapp.io/zh-Hant/contact"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.moveitapp.io/ja/contact"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.moveitapp.io/ko/contact"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.moveitapp.io/contact"/>
   </url>
 
   <!-- Japanese Pages -->
   <url>
-    <loc>https://nicolaebp.github.io/MoveIt-Website/ja/</loc>
+    <loc>https://www.moveitapp.io/ja/</loc>
     <lastmod>2025-11-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://nicolaebp.github.io/MoveIt-Website/"/>
-    <xhtml:link rel="alternate" hreflang="ro" href="https://nicolaebp.github.io/MoveIt-Website/ro/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://nicolaebp.github.io/MoveIt-Website/es/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://nicolaebp.github.io/MoveIt-Website/fr/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://nicolaebp.github.io/MoveIt-Website/de/"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://nicolaebp.github.io/MoveIt-Website/it/"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://nicolaebp.github.io/MoveIt-Website/pt-BR/"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://nicolaebp.github.io/MoveIt-Website/pt-PT/"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://nicolaebp.github.io/MoveIt-Website/ru/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hans/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hant/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://nicolaebp.github.io/MoveIt-Website/ja/"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://nicolaebp.github.io/MoveIt-Website/ko/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://nicolaebp.github.io/MoveIt-Website/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.moveitapp.io/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.moveitapp.io/ro/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.moveitapp.io/es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.moveitapp.io/fr/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.moveitapp.io/de/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.moveitapp.io/it/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.moveitapp.io/pt-BR/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://www.moveitapp.io/pt-PT/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.moveitapp.io/ru/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.moveitapp.io/zh-Hans/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.moveitapp.io/zh-Hant/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.moveitapp.io/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.moveitapp.io/ko/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.moveitapp.io/"/>
   </url>
 
   <url>
-    <loc>https://nicolaebp.github.io/MoveIt-Website/ja/download</loc>
+    <loc>https://www.moveitapp.io/ja/download</loc>
     <lastmod>2025-11-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://nicolaebp.github.io/MoveIt-Website/download"/>
-    <xhtml:link rel="alternate" hreflang="ro" href="https://nicolaebp.github.io/MoveIt-Website/ro/download"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://nicolaebp.github.io/MoveIt-Website/es/download"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://nicolaebp.github.io/MoveIt-Website/fr/download"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://nicolaebp.github.io/MoveIt-Website/de/download"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://nicolaebp.github.io/MoveIt-Website/it/download"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://nicolaebp.github.io/MoveIt-Website/pt-BR/download"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://nicolaebp.github.io/MoveIt-Website/pt-PT/download"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://nicolaebp.github.io/MoveIt-Website/ru/download"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hans/download"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hant/download"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://nicolaebp.github.io/MoveIt-Website/ja/download"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://nicolaebp.github.io/MoveIt-Website/ko/download"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://nicolaebp.github.io/MoveIt-Website/download"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.moveitapp.io/download"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.moveitapp.io/ro/download"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.moveitapp.io/es/download"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.moveitapp.io/fr/download"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.moveitapp.io/de/download"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.moveitapp.io/it/download"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.moveitapp.io/pt-BR/download"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://www.moveitapp.io/pt-PT/download"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.moveitapp.io/ru/download"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.moveitapp.io/zh-Hans/download"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.moveitapp.io/zh-Hant/download"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.moveitapp.io/ja/download"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.moveitapp.io/ko/download"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.moveitapp.io/download"/>
   </url>
 
   <url>
-    <loc>https://nicolaebp.github.io/MoveIt-Website/ja/contact</loc>
+    <loc>https://www.moveitapp.io/ja/contact</loc>
     <lastmod>2025-11-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://nicolaebp.github.io/MoveIt-Website/contact"/>
-    <xhtml:link rel="alternate" hreflang="ro" href="https://nicolaebp.github.io/MoveIt-Website/ro/contact"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://nicolaebp.github.io/MoveIt-Website/es/contact"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://nicolaebp.github.io/MoveIt-Website/fr/contact"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://nicolaebp.github.io/MoveIt-Website/de/contact"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://nicolaebp.github.io/MoveIt-Website/it/contact"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://nicolaebp.github.io/MoveIt-Website/pt-BR/contact"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://nicolaebp.github.io/MoveIt-Website/pt-PT/contact"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://nicolaebp.github.io/MoveIt-Website/ru/contact"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hans/contact"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hant/contact"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://nicolaebp.github.io/MoveIt-Website/ja/contact"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://nicolaebp.github.io/MoveIt-Website/ko/contact"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://nicolaebp.github.io/MoveIt-Website/contact"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.moveitapp.io/contact"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.moveitapp.io/ro/contact"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.moveitapp.io/es/contact"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.moveitapp.io/fr/contact"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.moveitapp.io/de/contact"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.moveitapp.io/it/contact"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.moveitapp.io/pt-BR/contact"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://www.moveitapp.io/pt-PT/contact"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.moveitapp.io/ru/contact"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.moveitapp.io/zh-Hans/contact"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.moveitapp.io/zh-Hant/contact"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.moveitapp.io/ja/contact"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.moveitapp.io/ko/contact"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.moveitapp.io/contact"/>
   </url>
 
   <!-- Korean Pages -->
   <url>
-    <loc>https://nicolaebp.github.io/MoveIt-Website/ko/</loc>
+    <loc>https://www.moveitapp.io/ko/</loc>
     <lastmod>2025-11-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://nicolaebp.github.io/MoveIt-Website/"/>
-    <xhtml:link rel="alternate" hreflang="ro" href="https://nicolaebp.github.io/MoveIt-Website/ro/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://nicolaebp.github.io/MoveIt-Website/es/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://nicolaebp.github.io/MoveIt-Website/fr/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://nicolaebp.github.io/MoveIt-Website/de/"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://nicolaebp.github.io/MoveIt-Website/it/"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://nicolaebp.github.io/MoveIt-Website/pt-BR/"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://nicolaebp.github.io/MoveIt-Website/pt-PT/"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://nicolaebp.github.io/MoveIt-Website/ru/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hans/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hant/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://nicolaebp.github.io/MoveIt-Website/ja/"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://nicolaebp.github.io/MoveIt-Website/ko/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://nicolaebp.github.io/MoveIt-Website/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.moveitapp.io/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.moveitapp.io/ro/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.moveitapp.io/es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.moveitapp.io/fr/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.moveitapp.io/de/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.moveitapp.io/it/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.moveitapp.io/pt-BR/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://www.moveitapp.io/pt-PT/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.moveitapp.io/ru/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.moveitapp.io/zh-Hans/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.moveitapp.io/zh-Hant/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.moveitapp.io/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.moveitapp.io/ko/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.moveitapp.io/"/>
   </url>
 
   <url>
-    <loc>https://nicolaebp.github.io/MoveIt-Website/ko/download</loc>
+    <loc>https://www.moveitapp.io/ko/download</loc>
     <lastmod>2025-11-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://nicolaebp.github.io/MoveIt-Website/download"/>
-    <xhtml:link rel="alternate" hreflang="ro" href="https://nicolaebp.github.io/MoveIt-Website/ro/download"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://nicolaebp.github.io/MoveIt-Website/es/download"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://nicolaebp.github.io/MoveIt-Website/fr/download"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://nicolaebp.github.io/MoveIt-Website/de/download"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://nicolaebp.github.io/MoveIt-Website/it/download"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://nicolaebp.github.io/MoveIt-Website/pt-BR/download"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://nicolaebp.github.io/MoveIt-Website/pt-PT/download"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://nicolaebp.github.io/MoveIt-Website/ru/download"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hans/download"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hant/download"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://nicolaebp.github.io/MoveIt-Website/ja/download"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://nicolaebp.github.io/MoveIt-Website/ko/download"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://nicolaebp.github.io/MoveIt-Website/download"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.moveitapp.io/download"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.moveitapp.io/ro/download"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.moveitapp.io/es/download"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.moveitapp.io/fr/download"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.moveitapp.io/de/download"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.moveitapp.io/it/download"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.moveitapp.io/pt-BR/download"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://www.moveitapp.io/pt-PT/download"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.moveitapp.io/ru/download"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.moveitapp.io/zh-Hans/download"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.moveitapp.io/zh-Hant/download"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.moveitapp.io/ja/download"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.moveitapp.io/ko/download"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.moveitapp.io/download"/>
   </url>
 
   <url>
-    <loc>https://nicolaebp.github.io/MoveIt-Website/ko/contact</loc>
+    <loc>https://www.moveitapp.io/ko/contact</loc>
     <lastmod>2025-11-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://nicolaebp.github.io/MoveIt-Website/contact"/>
-    <xhtml:link rel="alternate" hreflang="ro" href="https://nicolaebp.github.io/MoveIt-Website/ro/contact"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://nicolaebp.github.io/MoveIt-Website/es/contact"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://nicolaebp.github.io/MoveIt-Website/fr/contact"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://nicolaebp.github.io/MoveIt-Website/de/contact"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://nicolaebp.github.io/MoveIt-Website/it/contact"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://nicolaebp.github.io/MoveIt-Website/pt-BR/contact"/>
-    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://nicolaebp.github.io/MoveIt-Website/pt-PT/contact"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://nicolaebp.github.io/MoveIt-Website/ru/contact"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hans/contact"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://nicolaebp.github.io/MoveIt-Website/zh-Hant/contact"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://nicolaebp.github.io/MoveIt-Website/ja/contact"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://nicolaebp.github.io/MoveIt-Website/ko/contact"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://nicolaebp.github.io/MoveIt-Website/contact"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.moveitapp.io/contact"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.moveitapp.io/ro/contact"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.moveitapp.io/es/contact"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.moveitapp.io/fr/contact"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.moveitapp.io/de/contact"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.moveitapp.io/it/contact"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.moveitapp.io/pt-BR/contact"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://www.moveitapp.io/pt-PT/contact"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.moveitapp.io/ru/contact"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://www.moveitapp.io/zh-Hans/contact"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://www.moveitapp.io/zh-Hant/contact"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.moveitapp.io/ja/contact"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.moveitapp.io/ko/contact"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.moveitapp.io/contact"/>
   </url>
 
 </urlset>
