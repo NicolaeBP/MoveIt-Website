@@ -5,6 +5,7 @@ import { useLanguage } from '../../context/LanguageContext';
 import { useValidateLanguage } from '../../hooks/useValidateLanguage';
 import { CONTACT_METHODS, SUPPORT_LINKS } from './Contact.const';
 import { getContactSeoData } from './Contact.utils';
+import { getBreadcrumbSchema } from '../Home/Home.utils';
 import SupportSection from './SupportSection/SupportSection';
 import ContactMethodCard from './ContactMethodCard/ContactMethodCard';
 import avatar from '../../assets/images/avatar.webp';
@@ -24,6 +25,11 @@ const Contact = () => {
             />
 
             <JsonLd item={getContactSeoData(t('seo.contact.description'))} />
+
+            <JsonLd item={getBreadcrumbSchema([
+                { name: t('nav.home'), url: 'https://www.moveitapp.io/' },
+                { name: t('nav.contact'), url: 'https://www.moveitapp.io/contact' },
+            ])} />
 
             <div className="relative min-h-screen py-16 bg-gradient-to-b from-gray-50 to-white dark:from-[#121212] dark:to-[#1E1E1E] overflow-hidden">
                 {/* Organic fluid shapes */}

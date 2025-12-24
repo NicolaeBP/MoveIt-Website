@@ -6,6 +6,7 @@ import { useLanguage } from '../../context/LanguageContext';
 import { useValidateLanguage } from '../../hooks/useValidateLanguage';
 import type { GitHubRelease } from '@/types/github.ts';
 import { isMobileOrTablet, getDownloadSeoData } from './Download.utils';
+import { getBreadcrumbSchema } from '../Home/Home.utils';
 import { MAC_APP_STORE_URL, GITHUB_RELEASES_API_URL } from './Download.const';
 import DirectDownloadSection from './DirectDownloadSection/DirectDownloadSection';
 import InstallationInstructions from './InstallationInstructions/InstallationInstructions';
@@ -53,6 +54,11 @@ const Download = () => {
 
                 <JsonLd item={getDownloadSeoData(t('seo.download.description'))} />
 
+                <JsonLd item={getBreadcrumbSchema([
+                    { name: t('nav.home'), url: 'https://www.moveitapp.io/' },
+                    { name: t('nav.download'), url: 'https://www.moveitapp.io/download' },
+                ])} />
+
                 <div className="relative min-h-screen py-16 bg-gradient-to-b from-gray-50 to-white dark:from-[#121212] dark:to-[#1E1E1E] overflow-hidden">
                     <div className="relative max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
                         <h1 className="text-5xl font-bold text-gray-900 dark:text-[#E5E5E5] mb-8">
@@ -77,6 +83,10 @@ const Download = () => {
             />
 
             <JsonLd item={getDownloadSeoData(t('seo.download.description'))} />
+            <JsonLd item={getBreadcrumbSchema([
+                { name: t('nav.home'), url: 'https://www.moveitapp.io/' },
+                { name: t('nav.download'), url: 'https://www.moveitapp.io/download' },
+            ])} />
 
             <div className="relative min-h-screen py-16 bg-gradient-to-b from-gray-50 to-white dark:from-[#121212] dark:to-[#1E1E1E] overflow-hidden">
                 {/* Organic fluid shapes */}

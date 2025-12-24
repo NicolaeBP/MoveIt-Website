@@ -4,7 +4,7 @@ import { JsonLd } from 'react-schemaorg';
 import Seo from '../../components/Seo/Seo';
 import { useLanguage } from '../../context/LanguageContext';
 import { useValidateLanguage } from '../../hooks/useValidateLanguage';
-import { detectOS, fetchLatestRelease, findAssetForOS, getHomeSeoData } from './Home.utils';
+import { detectOS, fetchLatestRelease, findAssetForOS, getBreadcrumbSchema, getHomeSeoData, getWebSiteSchema } from './Home.utils';
 import DownloadButton from './DownloadButton/DownloadButton';
 import FeatureCard from './FeatureCard/FeatureCard';
 import UseCaseCard from './UseCaseCard/UseCaseCard';
@@ -58,6 +58,12 @@ const Home = () => {
             />
 
             <JsonLd item={getHomeSeoData(t('seo.home.description'), release)} />
+
+            <JsonLd item={getWebSiteSchema()} />
+
+            <JsonLd item={getBreadcrumbSchema([
+                { name: t('nav.home'), url: 'https://www.moveitapp.io/' },
+            ])} />
 
             <div className="min-h-screen">
                 {/* Hero Section */}

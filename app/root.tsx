@@ -34,12 +34,21 @@ export const links = () => {
         {
             rel: "icon",
             href: `${baseUrl}favicon.ico`,
-            type: "image/x-icon",
+            sizes: "32x32",
         },
         {
             rel: "icon",
             href: `${baseUrl}favicon.png`,
             type: "image/png",
+            sizes: "512x512",
+        },
+        {
+            rel: "apple-touch-icon",
+            href: `${baseUrl}apple-touch-icon.png`,
+        },
+        {
+            rel: "manifest",
+            href: `${baseUrl}site.webmanifest`,
         },
     ];
 }

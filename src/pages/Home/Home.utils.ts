@@ -1,10 +1,10 @@
-import type { GitHubRelease } from '../../types/github';
-import type { SoftwareApplication, WithContext } from 'schema-dts';
+import type { GitHubRelease } from '@/types/github.ts';
+import type { BreadcrumbList, SoftwareApplication, WebSite, WithContext } from 'schema-dts';
 
 export const githubApiUrl = 'https://api.github.com/repos/NicolaeBP/MoveIt/releases/latest';
 
 export const detectOS = (): 'macos' | 'windows' | 'linux' | 'unknown' => {
-    if (typeof globalThis.navigator === 'undefined') return 'unknown';
+    if (globalThis.navigator === undefined) return 'unknown';
 
     const userAgent = globalThis.navigator.userAgent.toLowerCase();
 
@@ -85,3 +85,23 @@ export const getHomeSeoData = (description: string, release?: GitHubRelease | nu
         releaseNotes: 'https://github.com/NicolaeBP/MoveIt/releases',
     };
 };
+
+export const getWebSiteSchema = (): WithContext<WebSite> => ({
+    '@context': 'https://schema.org',
+    '@type': 'WebSite',
+    name: 'MoveIt',
+    url: 'https://www.moveitapp.io/',
+});
+
+export const getBreadcrumbSchema = (
+    items: Array<{ name: string; url: string }>
+): WithContext<BreadcrumbList> => ({
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: items.map((item, index) => ({
+        '@type': 'ListItem' as const,
+        position: index + 1,
+        name: item.name,
+        item: item.url,
+    })),
+});
