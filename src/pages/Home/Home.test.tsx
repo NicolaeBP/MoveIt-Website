@@ -20,6 +20,8 @@ vi.mock('./Home.utils', () => ({
     })),
     findAssetForOS: () => ({ name: 'app.dmg', browser_download_url: 'https://example.com/app.dmg', size: 1000, download_count: 100 }),
     getHomeSeoData: () => ({}),
+    getWebSiteSchema: () => ({}),
+    getBreadcrumbSchema: () => ({}),
 }));
 
 const createWrapper = (path?: string) => ({ children }: { children: React.ReactNode }) => (

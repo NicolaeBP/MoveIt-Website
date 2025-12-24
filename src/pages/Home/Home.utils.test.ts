@@ -5,6 +5,8 @@ import {
     findDMGAsset,
     findAssetForOS,
     getHomeSeoData,
+    getWebSiteSchema,
+    getBreadcrumbSchema,
     githubApiUrl,
 } from './Home.utils';
 import type { GitHubRelease } from '@/types/github.ts';
@@ -314,6 +316,59 @@ describe('Home.utils', () => {
 
                 expect(result.softwareVersion).toBe('1.0.0');
             });
+        });
+    });
+
+    describe('getWebSiteSchema', () => {
+        it('returns WebSite structured data', () => {
+            const result = getWebSiteSchema();
+
+            expect(result['@context']).toBe('https://schema.org');
+            expect(result['@type']).toBe('WebSite');
+            expect(result.name).toBe('MoveIt');
+            expect(result.url).toBe('https://www.moveitapp.io/');
+        });
+    });
+
+    describe('getBreadcrumbSchema', () => {
+        it('returns BreadcrumbList structured data', () => {
+            const items = [
+                { name: 'Home', url: 'https://www.moveitapp.io/' },
+                { name: 'Download', url: 'https://www.moveitapp.io/download' },
+            ];
+
+            const result = getBreadcrumbSchema(items);
+            const listElements = result.itemListElement as Array<{
+                '@type': string;
+                position: number;
+                name: string;
+                item: string;
+            }>;
+
+            expect(result['@context']).toBe('https://schema.org');
+            expect(result['@type']).toBe('BreadcrumbList');
+            expect(listElements).toHaveLength(2);
+            expect(listElements[0]).toEqual({
+                '@type': 'ListItem',
+                position: 1,
+                name: 'Home',
+                item: 'https://www.moveitapp.io/',
+            });
+            expect(listElements[1]).toEqual({
+                '@type': 'ListItem',
+                position: 2,
+                name: 'Download',
+                item: 'https://www.moveitapp.io/download',
+            });
+        });
+
+        it('handles single item breadcrumb', () => {
+            const items = [{ name: 'Home', url: 'https://www.moveitapp.io/' }];
+
+            const result = getBreadcrumbSchema(items);
+            const listElements = result.itemListElement as Array<unknown>;
+
+            expect(listElements).toHaveLength(1);
         });
     });
 });
